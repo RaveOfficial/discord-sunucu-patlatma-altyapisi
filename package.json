@@ -1,0 +1,21 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ghost.js",
+  "scripts": {
+    "start": "node ghost.js"
+  },
+  "engines": {
+    "node": "16.6"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aoi.js": "^5.5.0",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^14.1.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
